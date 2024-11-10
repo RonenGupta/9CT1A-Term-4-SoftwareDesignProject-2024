@@ -160,3 +160,54 @@ As cyber attacks become more sophisticated, children alike remain unprepared and
 
 - The game's content should be designed with cultural sensitivity in mind, by avoiding any themes, symbols, narratives and any other offensive material which may cause disarray to any players from diverse cultural backgrounds.
 ***
+
+### **FlowCharts**
+
+**Upgrading and Selling**
+
+![alt text](<Screenshot 2024-11-10 at 6.48.43 pm.png>)
+
+**Threat Movement, Spawning, Level Completion**
+
+![alt text](<Screenshot 2024-11-10 at 6.48.12 pm.png>)
+
+**Pausing The Game**
+
+![alt text](<Screenshot 2024-11-10 at 6.48.24 pm.png>)
+
+**Placing and Selecting Units On A Tile**
+
+![alt text](<Screenshot 2024-11-10 at 6.48.17 pm.png>)
+
+**Threat Reaching Base, Game Over**
+
+![alt text](<Screenshot 2024-11-10 at 6.48.06 pm.png>)
+
+**Units Attacking Threats**
+
+![alt text](<Screenshot 2024-11-10 at 6.48.01 pm.png>)
+
+**Wave Incrementing**
+
+![alt text](<Screenshot 2024-11-10 at 6.47.52 pm.png>)
+
+### **StoryBoards and Gameplay Screens**
+
+**Story Board**
+![alt text](<Screenshot 2024-11-10 at 6.48.58 pm.png>)
+
+**Win Screen**
+
+![alt text](<Screenshot 2024-11-10 at 6.49.39 pm.png>)
+
+**Gameplay Screen**
+
+![alt text](<Screenshot 2024-11-10 at 6.49.32 pm.png>)
+
+**SplashScreen**
+
+![alt text](<Screenshot 2024-11-10 at 6.49.25 pm.png>)
+
+### **Gantt Chart**
+
+![alt text](<Screenshot 2024-11-10 at 6.46.14 pm.png>)
